@@ -28,3 +28,9 @@
   })
 
 ```
+
+# How to install?
+```bash
+npm install @aws-sdk/client-s3
+npm install s3_auth_state_baileys
+```
